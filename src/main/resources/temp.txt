@@ -1,0 +1,3 @@
+access_token=e2b165314ace802a5b00c07c627cc4a0b44c1935eaf9b732fd6448b459a8751c62f59be4235ad88894f09
+user_id=668467558
+https://oauth.vk.com/authorize?client_id=7922354&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=wall,photos,offline&response_type=token&v=5.21
